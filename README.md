@@ -8,7 +8,7 @@ This project uses fundamentals of set theory to carry out operations on polygons
 - Multi-Polygon Operations
 
 # Language and Theory
-Programming Language: Python
+Programming Language: Python\n
 Concepts used: Set Theory, Discrete Mathematics 
 
 # Project structure
