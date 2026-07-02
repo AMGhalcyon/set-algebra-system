@@ -6,13 +6,13 @@ Built for the **MA1008 Mini Project (NTU)**, applying discrete mathematics (set 
 
 
 
-'''
+```
 
 A + (B + C) -> intersect A with the union of B and C
 A - B       -> subtract B from A
 A + B + C   -> union of three polygons
 
-'''
+```
 
 ## Features
 
