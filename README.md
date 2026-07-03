@@ -72,17 +72,18 @@ SET ALGEBRA SYSTEM
 
 **Typical workflow:**
  
-1. **Create** two or more polygons (`1`), entering a name and vertex coordinates for each.
-2. **Display** them (`2`) to see them drawn on the canvas.
-3. **Perform Set Algebra** (`6`), entering an expression such as:
+ 1. **Create** two or more polygons (`1`), entering a name and vertex coordinates for each.
+ 2. **Display** them (`2`) to see them drawn on the canvas.
+ 3. **Perform Set Algebra** (`6`), entering an expression such as:
 ```
    A * B
    A + B
    A - B
    A * (B + C)
 ```
-   The result is drawn in green on top of the source polygons, and you'll be prompted to save it as a new named polygon.
+	The result is drawn in green on top of the source polygons, and you'll be prompted to save it as a new named polygon.
 4. **Save** (`3`) / **Load** (`4`) polygons to/from `polygons.txt` to persist a session.
+
  
 ### Expression syntax
  
